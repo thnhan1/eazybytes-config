@@ -1,5 +1,5 @@
 build:
-  version: "2.0"
+  version: "2.1"
 
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
